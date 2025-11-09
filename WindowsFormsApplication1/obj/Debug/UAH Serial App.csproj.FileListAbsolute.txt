@@ -1,0 +1,16 @@
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\UAH Serial App.exe.manifest
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\UAH Serial App.application
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\UAH Serial App.exe
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\UAH Serial App.pdb
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UAHmain.resources
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UserControl1.resources
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\UAH Serial App.TrustInfo.xml
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\UAH Serial App.exe.manifest
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\UAH Serial App.application
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\UAH Serial App.exe
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\UAH Serial App.pdb
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.write.1.tlog

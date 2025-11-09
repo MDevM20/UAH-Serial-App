@@ -1,0 +1,57 @@
+D:\UAH\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\PCApp\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\UAH\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\PCApp\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\UAH\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\PCApp\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\UAH\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\PCApp\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\Power Supply Monitor.csproj.GenerateResource.Cache
+D:\UAH\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\PCApp\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\UAH\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\PCApp\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\UAH\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\PCApp\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\UAH\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\PCApp\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\UAH\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\PCApp\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+D:\UAH\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\PCApp\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\ZedGraph.Web.xml
+D:\UAH\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\PCApp\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UserControl1.resources
+C:\Documents and Settings\mm0012\Desktop\CPE690\Power Supply Monitor_13_04\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\mm0012\Desktop\CPE690\Power Supply Monitor_13_04\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\mm0012\Desktop\CPE690\Power Supply Monitor_13_04\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\mm0012\Desktop\CPE690\Power Supply Monitor_13_04\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\mm0012\Desktop\CPE690\Power Supply Monitor_13_04\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\mm0012\Desktop\CPE690\Power Supply Monitor_13_04\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\ZedGraph.Web.xml
+C:\Documents and Settings\mm0012\Desktop\CPE690\Power Supply Monitor_13_04\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mm0012\Desktop\CPE690\Power Supply Monitor_13_04\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\mm0012\Desktop\CPE690\Power Supply Monitor_13_04\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\mm0012\Desktop\CPE690\Power Supply Monitor_13_04\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UserControl1.resources
+C:\Documents and Settings\mm0012\Desktop\CPE690\Power Supply Monitor_13_04\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\Power Supply Monitor.csproj.GenerateResource.Cache
+C:\Users\MladeM\Desktop\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\MladeM\Desktop\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\MladeM\Desktop\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\MladeM\Desktop\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\MladeM\Desktop\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+C:\Users\MladeM\Desktop\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\ZedGraph.Web.xml
+C:\Users\MladeM\Desktop\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MladeM\Desktop\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\MladeM\Desktop\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\MladeM\Desktop\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UserControl1.resources
+C:\Users\MladeM\Desktop\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\Power Supply Monitor.csproj.GenerateResource.Cache
+D:\UAH\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\UAH\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\UAH\SPRING_2010\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\UAH\SPRING_2010\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\UAH\SPRING_2010\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\UAH\SPRING_2010\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\UAH\SPRING_2010\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\UAH\SPRING_2010\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UserControl1.resources
+D:\UAH\SPRING_2010\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\Power Supply Monitor.csproj.GenerateResource.Cache
+D:\UAH\SPRING_2010\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\UAH\SPRING_2010\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\UAH\SPRING_2010\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+D:\UAH\SPRING_2010\CPE 690 - 03    ST POWER  PORT, AUTO, RENEW\project\Power Supply Monitor_new\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\ZedGraph.Web.xml
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UserControl1.resources
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Debug\Power Supply Monitor.csproj.GenerateResource.Cache
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\bin\Debug\ZedGraph.Web.xml

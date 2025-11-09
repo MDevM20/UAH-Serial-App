@@ -1,0 +1,15 @@
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.UAHmain.resources
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.UserControl1.resources
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Release\UAH Serial App.csproj.GenerateResource.Cache
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\bin\Release\UAH Serial App.exe.manifest
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\bin\Release\UAH Serial App.application
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\bin\Release\UAH Serial App.exe
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\bin\Release\UAH Serial App.pdb
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Release\UAH Serial App.exe.manifest
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Release\UAH Serial App.application
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Release\UAH Serial App.exe
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Release\UAH Serial App.pdb
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\bin\Release\ZedGraph.dll
+D:\Projects\C# Template Reading App\Power Supply Monitor\WindowsFormsApplication1\obj\Release\UAH Serial App.TrustInfo.xml
